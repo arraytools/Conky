@@ -2,4 +2,4 @@
 
 This repository contains only one file .conkyrc.
 
-Check [http://woeid.rosselliot.co.nz/ for the WOEID] for your city used in the [http://www.yahooapis.com/weather/ Yahoo weather API].
+Check [WOEID](http://woeid.rosselliot.co.nz/) for your city used in the [Yahoo weather API](http://www.yahooapis.com/weather/).
