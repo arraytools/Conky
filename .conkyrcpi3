@@ -45,7 +45,6 @@ CPU4  ${cpu cpu4}% ${cpubar cpu4}
 
 ${font Arial:bold:size=14}${color Tan1}MEMORY ${color DarkSlateGray}${hr 2}
 $font${color DimGray}MEM $alignc $mem / $memmax $alignr $memperc%
-$membar
 
 ${font Arial:bold:size=14}${color Tan2}NETWORK ${color White}${hr 2}
 $font${color DimGray}IP on wlan0 $alignr ${addr wlan0}
